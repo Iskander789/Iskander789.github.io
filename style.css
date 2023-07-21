@@ -3,6 +3,7 @@ body {
   color: #dddddd;
   font-family: Arial, Helvetica, sans-serif;
   margin: 10% 20%;
+  font=size: 16px:
 }
 
 .exp-header {
@@ -12,3 +13,16 @@ body {
   border-bottom: 1px solid #7E850E;
   background-color: rgba(0,0,0, 0.1)
 } 
+
+body h1{font-size: 3em; color:#C89FB4;}
+
+body h3{font-size: 1.8em; color:#ADEBED;}
+
+body h4{font-size: 1.5em; color:#70A58B;}
+
+body h5{font-size: 1.25em; font-style:italic;}
+
+body h6{font-size: 1em; font-weight:bold;}
+
+body li{font-size: 1em;}
+
