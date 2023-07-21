@@ -2,6 +2,7 @@ body {
   background-color: #444444;
   background-image: url(TestBackgroundimage.webp);
   background-repeat: no-repeat;
+  background-size: cover;
   color: #dddddd;
   font-family: system-ui ;
   margin: 10% 20%;
