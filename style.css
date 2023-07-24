@@ -1,12 +1,17 @@
 body {
   background-color: #444444;
-  background-image: url("TestBackgroundimage.webp");
+  background-image: url(TestBackgroundimage.webp);
   background-repeat: no-repeat;
   background-size: cover;
   color: #dddddd;
   font-family: helvetica ;
   margin: 10% 20%;
   font=size: 16px:
+}
+
+.wrapper{
+    display:grid;
+    grid-template-columns: 70% 30%;
 }
 
 .exp-header {
@@ -28,4 +33,6 @@ body h5{font-size: 1.25em; font-style:italic;}
 body h6{font-size: 1em; font-weight:bold;}
 
 body li{font-size: 1em;}
+
+
 
