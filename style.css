@@ -19,6 +19,8 @@ body {
   text-transform: uppercase;
   border-top: 1px solid #7E850E;
   border-bottom: 1px solid #7E850E;
+  border-right: 1px solid #7E850E;
+  border-left: 1px solid #7E850E;
   background-color: rgba(0,0,0, 0.1)
 } 
 
